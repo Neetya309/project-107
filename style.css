@@ -1,0 +1,51 @@
+body
+{
+font-family: 'Explora', cursive;
+background-color:aqua;
+font-weight:bolder;
+}
+#header_div{
+   background-color:blue;
+   color:white;
+   width:100%;
+   
+}
+p{
+    font-weight:bolder;
+    letter-spacing: 1px;
+}
+p:hover{
+    color:orange;
+
+
+}
+h1:hover{
+    font-weight:1000;
+}
+.main_div{
+    width:75%;
+}
+.main_div:hover{
+    color:blueviolet;
+}
+#start{
+    font-size: 25px;
+    font-weight:1000;
+    border-radius:50px;
+    width:100%;
+}
+#start:hover{
+    color:yellow;
+    background-color:red;
+}
+image{
+    border-radius:20px;
+}
+.copy-right-footer{
+    background-color:grey;
+    font-size:20px;
+    color:WHite;
+    position:fixed;
+    bottom:0;
+    
+}
